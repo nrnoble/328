@@ -1,0 +1,96 @@
+[05-Apr-2017 00:59:02 America/Chicago] No routes specified
+[05-Apr-2017 00:59:02 America/Chicago] [328/hello/index.php:6] Base->run()
+[05-Apr-2017 01:02:11 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '{' in /home/nnoble/public_html/328/hello/index.php on line 7
+[05-Apr-2017 01:09:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$f3' (T_VARIABLE) in /home/nnoble/public_html/328/hello/index.php on line 20
+[05-Apr-2017 01:10:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$f4' (T_VARIABLE) in /home/nnoble/public_html/328/hello/index.php on line 21
+[05-Apr-2017 01:10:26 America/Chicago] Unable to open files/myfile.html
+[05-Apr-2017 01:10:26 America/Chicago] [328/hello/index.php:16] View->render()
+[05-Apr-2017 01:10:26 America/Chicago] [328/hello/index.php:21] Base->run()
+[05-Apr-2017 19:18:34 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 10
+[05-Apr-2017 19:18:34 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 19:18:34 America/Chicago] [328/hello/files/myfile.html:10] 
+[05-Apr-2017 19:20:31 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 12
+[05-Apr-2017 19:20:31 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 19:20:31 America/Chicago] [328/hello/files/myfile.html:12] 
+[05-Apr-2017 19:20:38 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 12
+[05-Apr-2017 19:20:38 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 19:20:38 America/Chicago] [328/hello/files/myfile.html:12] 
+[05-Apr-2017 19:21:13 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 12
+[05-Apr-2017 19:21:13 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 19:21:13 America/Chicago] [328/hello/files/myfile.html:12] 
+[05-Apr-2017 19:21:34 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 12
+[05-Apr-2017 19:21:34 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 19:21:34 America/Chicago] [328/hello/files/myfile.html:12] 
+[05-Apr-2017 19:21:37 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 12
+[05-Apr-2017 19:21:37 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 19:21:37 America/Chicago] [328/hello/files/myfile.html:12] 
+[05-Apr-2017 19:22:16 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 12
+[05-Apr-2017 19:22:16 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 19:22:16 America/Chicago] [328/hello/files/myfile.html:12] 
+[05-Apr-2017 19:22:18 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 12
+[05-Apr-2017 19:22:18 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 19:22:18 America/Chicago] [328/hello/files/myfile.html:12] 
+[05-Apr-2017 19:23:33 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 12
+[05-Apr-2017 19:23:33 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 19:23:33 America/Chicago] [328/hello/files/myfile.html:12] 
+[05-Apr-2017 20:01:50 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 12
+[05-Apr-2017 20:01:50 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 20:01:50 America/Chicago] [328/hello/files/myfile.html:12] 
+[05-Apr-2017 20:02:39 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 12
+[05-Apr-2017 20:02:39 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 20:02:39 America/Chicago] [328/hello/files/myfile.html:12] 
+[05-Apr-2017 20:02:41 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 12
+[05-Apr-2017 20:02:41 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 20:02:41 America/Chicago] [328/hello/files/myfile.html:12] 
+[05-Apr-2017 20:06:18 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 12
+[05-Apr-2017 20:06:18 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 20:06:18 America/Chicago] [328/hello/files/myfile.html:12] 
+[05-Apr-2017 20:09:59 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 13
+[05-Apr-2017 20:09:59 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 20:09:59 America/Chicago] [328/hello/files/myfile.html:13] 
+[05-Apr-2017 20:12:54 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/nnoble/public_html/328/hello/files/myfile.html on line 13
+[05-Apr-2017 20:12:54 America/Chicago] Fatal error: syntax error, unexpected '{'
+[05-Apr-2017 20:12:54 America/Chicago] [328/hello/files/myfile.html:13] 
+[05-Apr-2017 20:13:15 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/nnoble/public_html/328/hello/files/myfile.html on line 13
+[05-Apr-2017 20:13:15 America/Chicago] Fatal error: syntax error, unexpected '{'
+[05-Apr-2017 20:13:15 America/Chicago] [328/hello/files/myfile.html:13] 
+[05-Apr-2017 20:13:16 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/nnoble/public_html/328/hello/files/myfile.html on line 13
+[05-Apr-2017 20:13:16 America/Chicago] Fatal error: syntax error, unexpected '{'
+[05-Apr-2017 20:13:16 America/Chicago] [328/hello/files/myfile.html:13] 
+[05-Apr-2017 20:14:10 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/nnoble/public_html/328/hello/files/myfile.html on line 13
+[05-Apr-2017 20:14:10 America/Chicago] Fatal error: syntax error, unexpected '{'
+[05-Apr-2017 20:14:10 America/Chicago] [328/hello/files/myfile.html:13] 
+[05-Apr-2017 20:14:15 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/nnoble/public_html/328/hello/files/myfile.html on line 13
+[05-Apr-2017 20:14:15 America/Chicago] Fatal error: syntax error, unexpected '{'
+[05-Apr-2017 20:14:15 America/Chicago] [328/hello/files/myfile.html:13] 
+[05-Apr-2017 20:45:02 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/nnoble/public_html/328/hello/files/myfile.html on line 13
+[05-Apr-2017 20:45:02 America/Chicago] Fatal error: syntax error, unexpected '{'
+[05-Apr-2017 20:45:02 America/Chicago] [328/hello/files/myfile.html:13] 
+[05-Apr-2017 20:45:21 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/nnoble/public_html/328/hello/files/myfile.html on line 13
+[05-Apr-2017 20:45:21 America/Chicago] Fatal error: syntax error, unexpected '{'
+[05-Apr-2017 20:45:21 America/Chicago] [328/hello/files/myfile.html:13] 
+[05-Apr-2017 20:45:55 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/nnoble/public_html/328/hello/files/myfile.html on line 13
+[05-Apr-2017 20:45:55 America/Chicago] Fatal error: syntax error, unexpected '{'
+[05-Apr-2017 20:45:55 America/Chicago] [328/hello/files/myfile.html:13] 
+[05-Apr-2017 20:51:45 America/Chicago] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting ',' or ';' in /home/nnoble/public_html/328/hello/files/myfile.html on line 13
+[05-Apr-2017 20:51:45 America/Chicago] Fatal error: syntax error, unexpected 's' (T_STRING), expecting ',' or ';'
+[05-Apr-2017 20:51:45 America/Chicago] [328/hello/files/myfile.html:13] 
+[11-Apr-2017 23:18:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/nnoble/public_html/328/hello/index.php on line 16
+[12-Apr-2017 04:18:57 America/Chicago] Unable to open pages/myfile.html
+[12-Apr-2017 04:18:57 America/Chicago] [328/hello/index.php:55] View->render()
+[12-Apr-2017 04:18:57 America/Chicago] [328/hello/index.php:59] Base->run()
+[12-Apr-2017 04:36:20 America/Chicago] Unable to open pages/myfile.html
+[12-Apr-2017 04:36:20 America/Chicago] [328/hello/index.php:55] View->render()
+[12-Apr-2017 04:36:20 America/Chicago] [328/hello/index.php:59] Base->run()
+[12-Apr-2017 04:38:25 America/Chicago] Unable to open pages/myfile.html
+[12-Apr-2017 04:38:25 America/Chicago] [328/hello/index.php:55] View->render()
+[12-Apr-2017 04:38:25 America/Chicago] [328/hello/index.php:59] Base->run()
+[13-Apr-2017 01:45:31 America/Chicago] Unable to open pages/myfile.html
+[13-Apr-2017 01:45:31 America/Chicago] [328/hello/index.php:55] View->render()
+[13-Apr-2017 01:45:31 America/Chicago] [328/hello/index.php:59] Base->run()
+[13-Apr-2017 19:26:31 America/Chicago] Unable to open pages/myfile.html
+[13-Apr-2017 19:26:32 America/Chicago] [328/hello/index.php:55] View->render()
+[13-Apr-2017 19:26:32 America/Chicago] [328/hello/index.php:59] Base->run()
+[16-Apr-2017 22:51:27 America/Chicago] Unable to open pages/myfile.html
+[16-Apr-2017 22:51:27 America/Chicago] [328/hello/index.php:55] View->render()
+[16-Apr-2017 22:51:27 America/Chicago] [328/hello/index.php:59] Base->run()

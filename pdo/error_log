@@ -1,0 +1,3 @@
+[25-Apr-2017 21:02:50 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/nnoble/public_html/328/pdo/index.php on line 6
+[25-Apr-2017 21:21:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/nnoble/public_html/328/pdo/index.php on line 11
+[25-Apr-2017 21:32:48 America/Chicago] PHP Parse error:  syntax error, unexpected '$statement' (T_VARIABLE) in /home/nnoble/public_html/328/pdo/index.php on line 24

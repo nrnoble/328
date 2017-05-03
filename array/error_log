@@ -1,0 +1,29 @@
+[10-Apr-2017 04:48:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/nnoble/public_html/328/array/pages/home.php on line 67
+[10-Apr-2017 04:48:36 America/Chicago] Fatal error: syntax error, unexpected 'foreach' (T_FOREACH)
+[10-Apr-2017 04:48:36 America/Chicago] [328/array/pages/home.php:67] 
+[10-Apr-2017 05:23:50 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/nnoble/public_html/328/array/pages/home.php on line 108
+[10-Apr-2017 05:23:50 America/Chicago] Fatal error: syntax error, unexpected '<'
+[10-Apr-2017 05:23:50 America/Chicago] [328/array/pages/home.php:108] 
+[12-Apr-2017 05:45:49 America/Chicago] PHP Fatal error:  Cannot redeclare bubbleSort() (previously declared in /home/nnoble/public_html/328/array/pages/home.php:31) in /home/nnoble/public_html/328/array/pages/home.php on line 156
+[12-Apr-2017 05:45:49 America/Chicago] Fatal error: Cannot redeclare bubbleSort() (previously declared in /home/nnoble/public_html/328/array/pages/home.php:31)
+[12-Apr-2017 05:45:49 America/Chicago] [328/array/pages/home.php:156] 
+[12-Apr-2017 07:04:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/nnoble/public_html/328/array/pages/home.php on line 177
+[12-Apr-2017 07:04:57 America/Chicago] Fatal error: syntax error, unexpected 'echo' (T_ECHO)
+[12-Apr-2017 07:04:57 America/Chicago] [328/array/pages/home.php:177] 
+[12-Apr-2017 07:13:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/nnoble/public_html/328/array/pages/home.php on line 180
+[12-Apr-2017 07:13:18 America/Chicago] Fatal error: syntax error, unexpected 'class' (T_CLASS)
+[12-Apr-2017 07:13:18 America/Chicago] [328/array/pages/home.php:180] 
+[12-Apr-2017 23:49:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/nnoble/public_html/328/array/pages/home.php on line 190
+[12-Apr-2017 23:49:46 America/Chicago] Fatal error: syntax error, unexpected 'foreach' (T_FOREACH)
+[12-Apr-2017 23:49:46 America/Chicago] [328/array/pages/home.php:190] 
+[13-Apr-2017 04:49:18 America/Chicago] Unable to open pages/tests.php
+[13-Apr-2017 04:49:18 America/Chicago] [328/array/index.php:15] View->render()
+[13-Apr-2017 04:49:18 America/Chicago] [328/array/index.php:25] Base->run()
+[13-Apr-2017 04:50:41 America/Chicago] HTTP 404 (GET /)
+[13-Apr-2017 04:50:41 America/Chicago] [328/array/index.php:24] Base->run()
+[13-Apr-2017 04:51:12 America/Chicago] HTTP 404 (GET /)
+[13-Apr-2017 04:51:12 America/Chicago] [328/array/index.php:24] Base->run()
+[13-Apr-2017 04:51:42 America/Chicago] HTTP 404 (GET /)
+[13-Apr-2017 04:51:42 America/Chicago] [328/array/index.php:24] Base->run()
+[13-Apr-2017 04:52:42 America/Chicago] HTTP 404 (GET /)
+[13-Apr-2017 04:52:42 America/Chicago] [328/array/index.php:24] Base->run()
